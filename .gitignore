@@ -21,3 +21,4 @@ share/
 # Ignore log files
 *.log
 pyvenv.cfg
+lib64
